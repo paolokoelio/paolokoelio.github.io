@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Pavlo Burda"
+title                    : "Pavlo Burda"
 title_separator          : "-"
 name                     : &name "Pavlo Burda"
 description              : &description "Not daily links by Pavlo Burda."
