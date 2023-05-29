@@ -4,7 +4,7 @@ title: "Contacts"
 author_profile: true
 redirect_from: 
   # - /cn/
-  - /contacts.html
+  # - /contacts.html
 ---
 
 ## Main contacts
