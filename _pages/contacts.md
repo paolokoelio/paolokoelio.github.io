@@ -3,7 +3,7 @@ permalink: /contacts/
 title: "Contacts"
 author_profile: true
 redirect_from: 
-  - /contacts/
+  # - /cn/
   - /contacts.html
 ---
 
