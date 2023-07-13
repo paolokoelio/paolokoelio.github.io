@@ -84,8 +84,8 @@ author:
   name             : "Pavlo Burda"
   avatar           : "profile.jpg"
   bio              : "No trackers, no ads, no data collection. Black on white."
-  location         : "Eindhoven, EU"
-  employer         :
+  location         : "Netherlands, EU"
+  employer         : "TU/e"
   #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=X6xku1Im18sC"
   email            : "p.burda@mailbox.org"
@@ -104,9 +104,9 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "pavloburda"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-4554-5410"
   pinterest        :
-  soundcloud       : "p_koelio"
+  soundcloud       : #"p_koelio"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            : "p_koelio"
   tumblr           :
