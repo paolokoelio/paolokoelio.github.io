@@ -10,8 +10,6 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-
-{% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% assign first_article = 'True' %}
     {% for post in site.publications reversed %}
@@ -25,7 +23,3 @@ author_profile: true
       {% endif %}
       {% include archive-single.html %}
     {% endfor %}
-
-<!-- {% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
