@@ -15,11 +15,13 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
   - title: "Contacts"
     url: /contacts/
 
   # - title: "Guide"
   #   url: /markdown/
+
+#TODO remove the not used pages

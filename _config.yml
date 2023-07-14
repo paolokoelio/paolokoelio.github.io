@@ -84,7 +84,7 @@ author:
   name             : "Pavlo Burda"
   avatar           : "profile.jpg"
   bio              : "No trackers, no ads, no data collection. Black on white."
-  location         : "Netherlands, EU"
+  location         : #"Netherlands, EU"
   employer         : "TU/e"
   #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=X6xku1Im18sC"
@@ -184,10 +184,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
@@ -267,6 +267,8 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll/scholar
+
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -311,3 +313,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+scholar:
+  group_by: year

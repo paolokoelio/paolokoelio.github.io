@@ -11,6 +11,21 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+{% include base_path %}
+{% capture written_year %}'None'{% endcapture %}
+{% assign first_article = 'True' %}
+    {% for post in site.publications reversed %}
+      {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+      {% if year != written_year %}
+        <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+        {% capture written_year %}{{ year }}{% endcapture %}
+        {% assign first_article = 'True' %}
+      {% else %}
+        <hr/>
+      {% endif %}
+      {% include archive-single.html %}
+    {% endfor %}
+
+<!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
