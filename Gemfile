@@ -24,5 +24,5 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
-  gem 'jekyll-scholar'
+  # gem 'jekyll-scholar'
 end

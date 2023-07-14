@@ -267,7 +267,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll/scholar
+  # - jekyll/scholar
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -314,5 +314,5 @@ compress_html:
   ignore:
     envs: development
 
-scholar:
-  group_by: year
+# scholar:
+#   group_by: year
