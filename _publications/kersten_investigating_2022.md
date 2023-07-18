@@ -1,6 +1,6 @@
 ---
 title: "Investigating the Effect of Phishing Believability on Phishing Reporting"
-collection: publications"
+collection: publications
 permalink: /publication/kersten_investigating_2022
 authors: 'Kersten, L.; Burda, P.; Allodi, L.; Zannone, N.'
 abstract: "Phishing emails are becoming more and more sophisticated, making current detection techniques ineffective. The reporting of phishing emails from users is, thus, crucial for organizations to detect phishing attacks and mitigate their effect. Despite extensive research on how the believability of a phishing email affects detection rates, there is little to no research about the relationship between the believability of a phishing email and the associated reporting rate. In this work, we present a controlled experiment with 446 subjects to evaluate how the reporting rate of a phishing email is linked to its believability and detection rate. Our results show that the reporting rate decreases as the believability of the email increases and that around half of the subjects who detect the mail as phishing, have an intention to report the email. However, the group intending to report an email is not a subset of the group detecting the mail as phishing, suggesting that reporting is still a concept misunderstood by many."

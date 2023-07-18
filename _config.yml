@@ -86,7 +86,7 @@ author:
   bio              : "No trackers, no ads, no data collection. Black on white."
   location         : "Netherlands, EU"
   employer         : #"TU/e"
-  #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=X6xku1Im18sC"
   email            : "p.burda@mailbox.org"
   researchgate     : "https://www.researchgate.net/profile/Pavlo-Burda"

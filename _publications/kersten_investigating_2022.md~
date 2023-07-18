@@ -1,5 +1,5 @@
 ---
-title: "Investigating the Effect of Phishing Believability on Phishing Reporting."
+title: "Investigating the Effect of Phishing Believability on Phishing Reporting"
 collection: publications"
 permalink: /publication/kersten_investigating_2022
 authors: 'Kersten, L.; Burda, P.; Allodi, L.; Zannone, N.'
