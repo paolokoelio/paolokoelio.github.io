@@ -2,14 +2,14 @@
 title: "CARONTE: a Crawler for Adversarial Resources Over Non-Trusted, high-profile Environments"
 collection: publications
 permalink: /publication/2019-07-17-caronte
+authors: 'Campobasso, M.; Burda, P.; Allodi, L.'
+abstract: "The monitoring of underground criminal activities is often automated to maximize the data collection and to train ML models to automatically adapt data collection tools to different communities. On the other hand, sophisticated adversaries may adopt crawling-detection capabilities that may significantly jeopardize researchers' opportunities to perform the data collection, for example by putting their accounts under the spotlight and being expelled from the community. This is particularly undesirable in prominent and high-profile criminal communities where entry costs are significant (either monetarily or for example for background checking or other trust-building mechanisms). This paper presents CARONTE, a tool to semi-automatically learn virtually any forum structure for parsing and data-extraction, while maintaining a low profile for the data collection and avoiding the requirement of collecting massive datasets to maintain tool scalability. We showcase the tool against four underground forums, and compare the network traffic it generates (as seen from the adversary's position, i.e. the underground community's server) against state-of-the-art tools for web-crawling as well as human users."
+date: 2019-07-17
+venue: 'IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)'
 open_access_link: "https://arxiv.org/abs/2009.08148"
 publisher_link: 'https://ieeexplore.ieee.org/abstract/document/8802484'
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-abstract: "The monitoring of underground criminal activities is often automated to maximize the data collection and to train ML models to automatically adapt data collection tools to different communities. On the other hand, sophisticated adversaries may adopt crawling-detection capabilities that may significantly jeopardize researchers' opportunities to perform the data collection, for example by putting their accounts under the spotlight and being expelled from the community. This is particularly undesirable in prominent and high-profile criminal communities where entry costs are significant (either monetarily or for example for background checking or other trust-building mechanisms). This paper presents CARONTE, a tool to semi-automatically learn virtually any forum structure for parsing and data-extraction, while maintaining a low profile for the data collection and avoiding the requirement of collecting massive datasets to maintain tool scalability. We showcase the tool against four underground forums, and compare the network traffic it generates (as seen from the adversary's position, i.e. the underground community's server) against state-of-the-art tools for web-crawling as well as human users."
-authors: 'Campobasso, M.; Burda, P.; Allodi, L.'
-date: 2019-07-17
-venue: '2019 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW) - 1st Workshop on Attackers and Cyber-Crime Operations'
 paperurl: 'https://doi.org/10.1109/EuroSPW.2019.00055'
-bibtex:	'https://paolokoelio.github.io/files/2019-07-17-caronte,bib'
+bibtex:	'https://paolokoelio.github.io/files/2019-07-17-caronte.bib'
+# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
