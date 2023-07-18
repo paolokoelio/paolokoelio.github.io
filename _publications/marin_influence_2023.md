@@ -8,7 +8,7 @@ venue: 'Proceedings of the 2023 CHI Conference on Human Factors in Computing Sys
 # open_access_link: ''
 # publisher_link: ''
 paperurl: 'https://doi.org/10.1145/3544548.3580985'
-bibtex:	'https://paolokoelio.github.io/files/marin_influence_2023.bib'
+bibtex:	'https://paolokoelio.github.io/files/bib/marin_influence_2023.bib'
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---

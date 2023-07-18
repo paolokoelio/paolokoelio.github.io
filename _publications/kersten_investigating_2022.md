@@ -9,7 +9,7 @@ venue: 'IEEE European Symposium on Security and Privacy Workshops (EuroS&PW 2022
 # open_access_link: ''
 # publisher_link: ''
 paperurl: 'https://doi.org/10.1109/EuroSPW55150.2022.00018'
-bibtex:	'https://paolokoelio.github.io/files/kersten_investigating_2022.bib'
+bibtex:	'https://paolokoelio.github.io/files/bib/kersten_investigating_2022.bib'
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---

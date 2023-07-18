@@ -8,7 +8,7 @@ venue: 'IEEE European Symposium on Security and Privacy Workshops (EuroS&PW 2023
 # open_access_link: ''
 # publisher_link: ''
 paperurl: 'https://doi.org/10.1109/EuroSPW59978.2023.00031'
-bibtex:	'https://paolokoelio.github.io/files/burda_peculiar_2023.bib'
+bibtex:	'https://paolokoelio.github.io/files/bib/burda_peculiar_2023.bib'
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
