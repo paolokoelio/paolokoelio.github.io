@@ -9,7 +9,7 @@ venue: 'IEEE European Symposium on Security and Privacy Workshops (EuroS&PW 2019
 open_access_link: "https://arxiv.org/abs/2009.08148"
 publisher_link: 'https://ieeexplore.ieee.org/abstract/document/8802484'
 paperurl: 'https://doi.org/10.1109/EuroSPW.2019.00055'
-bibtex:	'https://paolokoelio.github.io/files/2019-07-17-caronte.bib'
+bibtex:	'https://paolokoelio.github.io/files/bib/2019-07-17-caronte.bib'
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
