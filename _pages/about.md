@@ -10,5 +10,6 @@ redirect_from:
 
 I'm a PhD student and Teaching Assistant at the [Security Group](https://security1.win.tue.nl) of Eindhoven University of Technology.
 
-My research is aimed at exploring the interactions between [social engineering attacks and human cognition](). Attacks exploiting target-related information can be particularly [effective]() and [difficult to counteract](), therefore my focus lies on [characterizing]() such threats and [defending]() against them. 
+My research is aimed at exploring the interactions between [social engineering attacks and human cognition](https://paolokoelio.github.io/publication/burda_cognition_other). Attacks exploiting target-related information can be particularly [effective](https://paolokoelio.github.io/publication/burda_testing_2020) and [difficult to counteract](https://paolokoelio.github.io/publication/burda_dont_2020), therefore my focus lies on [characterizing](https://paolokoelio.github.io/publication/burda_dissecting_2021) such threats and defending against them with [technological](https://paolokoelio.github.io/publication/burda_decision-support_2022) and [organizational](https://paolokoelio.github.io/publication/marin_influence_2023) methods.
 
+<!-- Throughout my research I have applied quantitative and qualitative approaches to data collection and analysis, such as scraping,  -->
