@@ -15,7 +15,7 @@ We then adopt the attacker's perspective and investigate what techniques can be 
 In the context where the functioning of our society heavily depends on digital communications, this thesis advances social engineering research by identifying, estimating and mitigating the associated risks. We identify open gaps in research by contextualizing social engineering attacks in the cognitive sciences domain. We estimate the potential risks by demonstrating how target-related information in phishing can overrun the effects of conventional phishing. Finally, we mitigate the risks by showing why humans -- the targets of such attacks -- can be the current best defense against, otherwise unstoppable, sophisticated phishing attacks."
 date: 2024-01-24
 venue: 'Eindhoven University of Technology - PhD thesis'
-open_access_link: 'https://paolokoelio.github.io/files/Burda_phd_thesis.pdf'
+# open_access_link: 'https://paolokoelio.github.io/files/Burda_phd_thesis.pdf'
 # publisher_link: ''
 paperurl: 'https://research.tue.nl/en/publications/let-the-weakest-link-fail-but-gracefully-understanding-tailored-p'
 bibtex:	'https://paolokoelio.github.io/files/bib/burda_let_2024.bib'
