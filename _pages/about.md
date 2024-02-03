@@ -19,7 +19,7 @@ My research explored the interactions between [social engineering attacks and hu
 ---
 
 Completing a PhD is essentially an exercise of long-term project management where designing short-term goals, making timelines and managing stakeholders are necessary to meet deadlines.
-In this project, I gained experience in systematically approaching complex problems and asking the right questions, such as finding relevant data, designing ways to analyze and understand it and synthesizing relevant outcomes. 
+In this project, I gained experience in asking the right questions and systematically approaching complex problems, such as finding relevant data, designing ways to analyze and understand it and synthesizing relevant outcomes. 
 Getting along and communicating with diverse others, receiving-giving feedback, and mentoring students allowed me to reach these goals.
 Finally, I developed written communication and public speaking skills to share with and reach the audience. 
 
