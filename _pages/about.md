@@ -23,6 +23,5 @@ In this project, I gained experience in systematically approaching complex probl
 Getting along and communicating with diverse others, receiving-giving feedback, and mentoring students allowed me to reach these goals.
 Finally, I developed written communication and public speaking skills to share with and reach the audience. 
 
-  applied quantitative and qualitative approaches to data collection,  -->
 <!-- Throughout my research I have applied quantitative and qualitative approaches to data collection and analysis, such as scraping, ... 
 Moreover, empirical methods to carry out test ... -->
