@@ -16,7 +16,13 @@ of Eindhoven University of Technology under the supervision of [dr. Allodi](http
 
 My research explored the interactions between [social engineering attacks and human cognition](https://paolokoelio.github.io/publication/burda_cognition_2023). Phishing attacks exploiting target-related information can be particularly [effective](https://paolokoelio.github.io/publication/burda_testing_2020) and [difficult to counteract](https://paolokoelio.github.io/publication/burda_dont_2020), therefore my focus lies on [characterizing](https://paolokoelio.github.io/publication/burda_dissecting_2021) such threats and defending against them with [technological](https://paolokoelio.github.io/publication/burda_decision-support_2022) and [organizational](https://paolokoelio.github.io/publication/marin_influence_2023) methods.
 
+---
 
-<!-- DUring my stay at the TU/e I have applied quantitative and qualitative approaches to data collection -->
+Completing a PhD is essentially an exercise of long-term project management where designing short-term goals, making timelines and managing stakeholders are necessary to meet deadlines.
+In this project, I gained experience in systematically approaching complex problems and asking the right questions, such as finding relevant data, designing ways to analyze and understand it and synthesizing relevant outcomes. 
+Getting along and communicating with diverse others, receiving-giving feedback, and mentoring students allowed me to reach these goals.
+Finally, I developed written communication and public speaking skills to share with and reach the audience. 
+
+  applied quantitative and qualitative approaches to data collection,  -->
 <!-- Throughout my research I have applied quantitative and qualitative approaches to data collection and analysis, such as scraping, ... 
 Moreover, empirical methods to carry out test ... -->
