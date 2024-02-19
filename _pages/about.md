@@ -25,6 +25,7 @@ To enable my research, together with my group, we established a Research as a Se
 The IS department receives:
   * evaluations of organizational resilience (e.g., spear-phishing vulnerability and response effectiveness assessment)
   * reports and recommendations (e.g., policy effectiveness, security mitigation strategies, testing new ideas)
+
 We receive:
   * access to data and infrastructure for research (e.g., phishing attacks, network traffic)
   * support and collaboration for deployments (e.g., experiments, involvement in anti-phishing activities)
