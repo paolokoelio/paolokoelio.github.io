@@ -20,7 +20,7 @@ My research explored the interactions between [social engineering attacks and hu
 
 To enable my research, together with my group, we established a Research as a Service collaboration with the [Information Services](https://www.tue.nl/en/our-university/about-the-university/support-services/library-and-information-services/ict-security) department at TU/e in terms of:
   * University as a lab: periodic, structured experimentation within TU/e
-  * Synchronization needs and opportunities: feedback loop between my research group and the IS department
+  * Synchronization of needs and opportunities: feedback loop between my research group and the IS department
   
 The IS department receives:
   * evaluations of organizational resilience (e.g., spear-phishing vulnerability and response effectiveness assessment)
