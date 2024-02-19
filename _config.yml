@@ -116,7 +116,11 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  mastodon         :  "@pavlo@infosec.exchange"
+  # mastodon         :  "@pavlo@infosec.exchange"
+  # Mastodon instances
+  mastodon         :
+  - username       : pavlo
+    instance       : infosec.exchange
 
 
 # Reading Files
