@@ -23,14 +23,20 @@ To enable my research, together with my group, I established a Research as a Ser
   * feedback loop between my research group and IT department
   
 Outcomes:
-  * evaluation organizational resilience (e.g., spear-phishing vulnerability and response effectiveness assessment)
-  * access to data and infrastructure for experimentation (e.g., phishing reports, anti-phishing training, network traffic)
+  * evaluation of organizational resilience (e.g., spear-phishing vulnerability and response effectiveness assessment)
+  * access to data and infrastructure for research (e.g., phishing reports, anti-phishing training, network traffic)
   * reporting and recommendations (e.g., policy effectiveness, security mitigation strategies, testing new ideas)
 
 <!-- Completing a PhD is essentially an exercise of long-term project management where designing short-term goals, making timelines, and managing stakeholders are necessary to meet deadlines.
 In this project, I gained experience in asking the right questions and systematically approaching complex problems, such as finding relevant data, designing ways to analyze and understand it, and synthesizing relevant outcomes. 
 Getting along and efficiently communicating with others, giving feedback, and mentoring students enabled effective team- and inter-department collaborations. 
 Finally, I developed written communication and public speaking skills to share my research with a general and experienced audience.  -->
+
+<!-- To complete the PhD program I had to exercise and develop a set of skills that include:
+  - systematic approach to complex problems
+  - short and mid-term project managing
+  - collaboration and mentoring
+  - effective communication, both written and public speaking -->
 
 <!-- Throughout my research I have applied quantitative and qualitative approaches to data collection and analysis, such as scraping, ... 
 Moreover, empirical methods to carry out test ... -->
