@@ -18,14 +18,16 @@ My research explored the interactions between [social engineering attacks and hu
 
 ---
 
-To enable my research, together with my group, I established a Research as a Service collaboration with the [Information Services](https://www.tue.nl/en/our-university/about-the-university/support-services/library-and-information-services/ict-security) department at TU/e:
-  * periodic, structured experimentation within TU/e
-  * feedback loop between my research group and IT department
+To enable my research, together with my group, we established a Research as a Service collaboration with the [Information Services](https://www.tue.nl/en/our-university/about-the-university/support-services/library-and-information-services/ict-security) department at TU/e in terms of:
+  * University as a lab: periodic, structured experimentation within TU/e
+  * Synchronization needs and opportunities: feedback loop between my research group and the IS department
   
-Outcomes:
-  * evaluation of organizational resilience (e.g., spear-phishing vulnerability and response effectiveness assessment)
-  * access to data and infrastructure for research (e.g., phishing reports, anti-phishing training, network traffic)
-  * reporting and recommendations (e.g., policy effectiveness, security mitigation strategies, testing new ideas)
+The IS department receives:
+  * evaluations of organizational resilience (e.g., spear-phishing vulnerability and response effectiveness assessment)
+  * reports and recommendations (e.g., policy effectiveness, security mitigation strategies, testing new ideas)
+We receive:
+  * access to data and infrastructure for research (e.g., phishing attacks, network traffic)
+  * support and collaboration for deployments (e.g., experiments, involvement in anti-phishing activities)
 
 <!-- Completing a PhD is essentially an exercise of long-term project management where designing short-term goals, making timelines, and managing stakeholders are necessary to meet deadlines.
 In this project, I gained experience in asking the right questions and systematically approaching complex problems, such as finding relevant data, designing ways to analyze and understand it, and synthesizing relevant outcomes. 
