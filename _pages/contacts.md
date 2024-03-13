@@ -16,10 +16,7 @@ PGP fingerprint:  `A7B6 E94C 66EF E3EA 774B E990 7017 CFBB 5A49 6228` ([PGP key]
   
 ### Office:
 
-<address>
-MF 6<br /> P.O. Box 513, 5600 MB<br /> Eindhoven, The Netherlands
-</address>
 
-<!--   Office:     MF 6  
-      P.O. Box 513, 5600 MB
-      Eindhoven, The Netherlands -->
+<address>
+  Netherlands
+</address>
