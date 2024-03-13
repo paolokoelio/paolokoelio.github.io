@@ -74,7 +74,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  false # "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Pavlo Burda"
   avatar           : "profile.jpg"
-  bio              : "No trackers, no ads, no data collection. Black on white."
+  bio              : "No trackers, no ads, no data collection."
   location         : "Netherlands, EU"
   employer         : #"TU/e"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
