@@ -10,6 +10,6 @@ venue: 'ACM Proceedings of the 2024 European Symposium on Usable Security'
 # publisher_link: ''
 paperurl: 'https://doi.org/10.1145/3688459.3688473'
 bibtex:	'https://paolokoelio.github.io/files/bib/burda_protect_2024.bib'
-# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Best Paper Award.'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
