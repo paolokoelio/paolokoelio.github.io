@@ -45,10 +45,9 @@ layout: default
         {% if page.authors %}
           <i style="font-size: 0.85em">{{ page.authors }}</i><!---->
         {% endif %}
-        
 
         {% if page.excerpt %}
-          <p style="font-size: 0.95em">{{ page.excerpt }}</p>
+          {{ page.excerpt }}
         {% endif %}
 
         {% if page.abstract %}
