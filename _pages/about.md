@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <!-- GRC, education and research in info-sec & AI -->
-I am an IT consultant and (sometimes) researcher at [ICTI](https://ictinstitute.nl/team/pavlo-burda/), where we provide information security advice and IT reviews to organizations, helping them achieve the ISO 27001 certification. My work includes educational and research projects, such as [teaching at VU](https://paolokoelio.github.io/teaching/) and sporadic [publications](https://paolokoelio.github.io/teaching/). Read more [here](https://paolokoelio.github.io/about_icti/).
+I am an IT consultant and (sometimes) researcher at [ICTI](https://ictinstitute.nl/team/pavlo-burda/), where we provide information security advice and IT reviews to organizations, helping them achieve the ISO 27001 certification. My work includes educational and research projects, such as [teaching at VU](https://paolokoelio.github.io/teaching/) and sporadic [publications](https://paolokoelio.github.io/publications/). Read more [here](https://paolokoelio.github.io/about_icti/).
 
 I have completed my [PhD](https://paolokoelio.github.io/publication/burda_let_2024) at the <a href="https://www.tue.nl/en/research/research-groups/computer-science/security" target="_blank">SEC Group</a>
 <!-- [Security Cluster](https://security1.win.tue.nl)  -->
