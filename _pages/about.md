@@ -11,7 +11,7 @@ redirect_from:
 <!-- GRC, education and research in info-sec & AI -->
 I am a Security Risk Officer in the Global Information Security team at [DLL](https://www.dllgroup.com), working on threat-based cyber security risk management across the organization. Read more [here](https://paolokoelio.github.io/about_dll/).
 
-I am also associated with [ICTI](https://ictinstitute.nl/team/pavlo-burda/) for freelance education and research projects. Previously, I worked there as an IT consultant and researcher, advising organizations on information security and ISO 27001 certification, and contributing to educational and research projects, such as [teaching at VU](https://paolokoelio.github.io/teaching/) and sporadic [publications](https://paolokoelio.github.io/publications/). Read more [here](https://paolokoelio.github.io/about_icti/).
+I am also a research and education associate at [ICTI](https://ictinstitute.nl/team/pavlo-burda/), where I work on freelance research and education projects. Previously, I worked there as an IT consultant and researcher, advising organizations on information security and ISO 27001 certification, and contributing to educational and research projects, such as [teaching at VU](https://paolokoelio.github.io/teaching/) and sporadic [publications](https://paolokoelio.github.io/publications/). Read more [here](https://paolokoelio.github.io/about_icti/).
 
 I have completed my [PhD](https://paolokoelio.github.io/publication/burda_let_2024) at the <a href="https://www.tue.nl/en/research/research-groups/computer-science/security" target="_blank">SEC Group</a>
 <!-- [Security Cluster](https://security1.win.tue.nl)  -->
