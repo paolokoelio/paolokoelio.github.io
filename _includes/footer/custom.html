@@ -1,7 +1,8 @@
 <!-- start custom footer snippets -->
 <!-- <a href="/sitemap/">Sitemap</a> -->
+{% if page.url == "/" %}
 <script>
-  // Open links to other sites in a new tab
+  // Homepage only: open links to other sites in a new tab
   document.addEventListener("DOMContentLoaded", function () {
     document.querySelectorAll("a[href]").forEach(function (a) {
       if ((a.protocol === "http:" || a.protocol === "https:") && a.hostname !== window.location.hostname) {
@@ -11,4 +12,5 @@
     });
   });
 </script>
+{% endif %}
 <!-- end custom footer snippets -->
