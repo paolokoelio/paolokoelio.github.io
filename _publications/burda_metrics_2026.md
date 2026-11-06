@@ -1,0 +1,15 @@
+---
+title: "Metrics for Deploying Human-in-the-Loop Classification Models"
+collection: publications
+permalink: /publication/burda_metrics_2026
+authors: 'Burda, P.; Stavroulakis, P. I.; van Otterloo, S.'
+abstract: "Due to new legislation and more awareness of AI-related risks, many AI decision models are deployed with human supervision in place where uncertain predictions are reviewed by human experts. However such models are often selected for deployment based on standard metrics like accuracy and precision that implicitly assume every decision is final and automated. When a human reviewer is part of the deployed pipeline, the standard metrics describe a system that is never deployed as such and can rank candidate models differently than a deferral-aware evaluation does, and it might be difficult to discuss the effect and cost of human intervention with diverse stakeholders. We define two performance metrics that are designed to accurately rank model performance by taking this human supervision into account. Based on the selective-classification literature, we propose: a Deferral-Aware-F1 (DAF1), the F1 score computed only over the cases a classifier accepts at a given coverage; and the Cost-Aware-Score (CAS), which weights DAF1 by the relative cost of a human review. Both use a model confidence scores to accept or defer decisions to the human. We use the UNSW-NB15 dataset and the SOC alert-triage scenario to illustrate where human supervision would be required by the AI Act, as it involves potential fraud and blockage of a service. We show how our metrics vs. traditional metrics can change model rankings and error rates and how they can support trade-off discussions across engineering, operations and business stakeholders."
+date: 2026-11-06
+venue: "Benelux Conference on Artificial Intelligence (BNAIC/BeNeLearn 2026)"
+# open_access_link: ''
+# publisher_link: ''
+paperurl: 'https://paolokoelio.github.io/files/papers/BNAIC_metrics_2026.pdf'
+bibtex:	'https://paolokoelio.github.io/files/bib/burda_metrics_2026.bib'
+# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+---
